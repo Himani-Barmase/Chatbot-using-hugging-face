@@ -30,17 +30,7 @@ chat_memory.py: Contains the logic for the memory buffer.
 
 interface.py: Manages the main CLI loop and integrates the other components.
 
-Setup Instructions
 
-Clone the repository or download the zipped folder.
-
-Ensure you have Python installed on system.
-
-
-Install the required libraries:
-
-
-pip install transformers torch
 How to Run
 Navigate to the project directory and run the main interface script from terminal:
 
